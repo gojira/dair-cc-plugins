@@ -1,3 +1,8 @@
+---
+name: Agent Web Builder
+description: helping students build modern web applications with AI capabilities. This skill provides guidance for a unified tech stack optimized for building production-ready applications.
+---
+
 # Web Builder Skill
 
 Use this skill when helping students build modern web applications with AI capabilities. This skill provides guidance for a unified tech stack optimized for building production-ready applications.
